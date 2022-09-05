@@ -38,7 +38,7 @@ _Наклонный_ _Наклонный_
 
 ---
 
-# Эмоджи
+# Эмоджи :man:
 
 [Сыллка на смайлы ](https://github.com/GnuriaN/format-README/blob/master/emoji.md)
 
